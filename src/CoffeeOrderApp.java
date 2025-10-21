@@ -23,5 +23,6 @@ public class CoffeeOrderApp {
         // Hitung total harga
         double total = price1 + price2;
         System.out.println("\nTotal Payment: Rp" + total);
+        System.out.println("\nTotal Payment: Rp" + total);
     }
 }
